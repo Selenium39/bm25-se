@@ -1,6 +1,6 @@
 {
     "name": "bm25-se",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "A lightweight search engine based on Okapi BM25 algorithm",
     "main": "index.js",
     "author": "Selenium39",
@@ -9,6 +9,7 @@
         "type": "git",
         "url": "https://github.com/Selenium39/bm25-se.git"
     },
+    "keywords": ["bm25","Okapi BM25","search engine"],
     "scripts": {
         "web": "node web/index.js"
     },
